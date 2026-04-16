@@ -1,0 +1,6 @@
+// Esto ayuda a entender que todo el proyecto usa Cypress y no va
+// a requerir agregarlo en todos los archivos para el autocompletado.
+
+{
+    "include": ["node_modules/cypress", "cypress/**/*.js"]
+}
