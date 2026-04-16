@@ -1,0 +1,24 @@
+{
+  "name": "qa-synthetic-monitoring-multimedios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGBid/qa-synthetic-monitoring-multimedios.git"
+  },
+  "keywords": [],
+  "author": "Mónica G. Bidart",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MGBid/qa-synthetic-monitoring-multimedios/issues"
+  },
+  "homepage": "https://github.com/MGBid/qa-synthetic-monitoring-multimedios#readme",
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
